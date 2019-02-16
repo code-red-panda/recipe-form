@@ -15,7 +15,7 @@
    <body>
       <!-- Navigation -->
       <nav>
-	<a href="/">Back to Recipe Form</a>
+	<a href="/recipe-form">Back to Recipe Form</a>
       </nav>
       <!-- Page Content -->
       <?php

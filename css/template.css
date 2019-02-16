@@ -1,0 +1,47 @@
+body
+{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+    font-size:15px;
+}
+
+/* ----------- My Template ----------- */
+#style {
+    margin: auto;
+    width: 50%;
+    border:solid 2px #b7ddf2;
+    background:#ebf4fb;
+    padding: 14px;
+
+}
+
+p.paragraph{
+  word-wrap: break-word;
+}
+
+.template
+{
+    margin:0 auto;
+    width:400px;
+    padding:14px;
+}
+
+button
+{
+    clear:both;
+    width:125px;
+    height:31px;
+    background:#666666;
+    text-align:center;
+    line-height:31px;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight:bold;
+}
+
+#instructions {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
+
